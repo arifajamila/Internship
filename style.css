@@ -1,2 +1,15 @@
-<link :rel="stylesheet"href="./style.css
-"
+h1{
+    color: aqua;
+    text-align: center;
+}
+img{
+    
+}
+h2{
+    color: blueviolet;
+}
+ul {
+background-color: bisque;
+text-align: initial;
+font-size: larger;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
